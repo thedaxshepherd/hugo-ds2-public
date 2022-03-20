@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on The DAX Shepherd</title>
-    <link>https://thedaxshepherd.github.io/hugo-ds2-public/tags/index/</link>
+    <link>https://thedaxshepherd.github.io/tags/index/</link>
     <description>Recent content in index on The DAX Shepherd</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thedaxshepherd.github.io/hugo-ds2-public/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thedaxshepherd.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://thedaxshepherd.github.io/hugo-ds2-public/post/</link>
+      <link>https://thedaxshepherd.github.io/post/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/hugo-ds2-public/post/</guid>
+      <guid>https://thedaxshepherd.github.io/post/</guid>
       <description>
         
           
