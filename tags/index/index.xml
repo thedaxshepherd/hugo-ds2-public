@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on The DAX Shepherd</title>
-    <link>https://thedaxshepherd.net/tags/index/</link>
+    <link>https://thedaxshepherd.github.io/hugo-ds2-public/tags/index/</link>
     <description>Recent content in index on The DAX Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://thedaxshepherd.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://thedaxshepherd.github.io/hugo-ds2-public/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://thedaxshepherd.net/post/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds2-public/post/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds2-public/post/</guid>
       <description>
         
           
