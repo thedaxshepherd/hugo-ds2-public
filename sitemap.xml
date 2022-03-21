@@ -2,44 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thedaxshepherd.com/</loc>
+    <loc>thedaxshepherd.com/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/categories/</loc>
+    <loc>thedaxshepherd.com/categories/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/tags/dax/</loc>
+    <loc>thedaxshepherd.com/tags/dax/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/post/my-first-post/</loc>
+    <loc>thedaxshepherd.com/post/my-first-post/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/post/</loc>
+    <loc>thedaxshepherd.com/post/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/tags/</loc>
+    <loc>thedaxshepherd.com/tags/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/categories/website/</loc>
+    <loc>thedaxshepherd.com/categories/website/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/tags/git/</loc>
+    <loc>thedaxshepherd.com/tags/git/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/tags/hugo/</loc>
+    <loc>thedaxshepherd.com/tags/hugo/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/post/website-hugo-blog-git/</loc>
+    <loc>thedaxshepherd.com/post/website-hugo-blog-git/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.com/about/</loc>
+    <loc>thedaxshepherd.com/about/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.com/mywork/</loc>
+    <loc>thedaxshepherd.com/mywork/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.com/resources/</loc>
+    <loc>thedaxshepherd.com/resources/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.com/resources_hold/</loc>
-  </url><url>
-    <loc>https://thedaxshepherd.com/series/</loc>
+    <loc>thedaxshepherd.com/series/</loc>
   </url>
 </urlset>
