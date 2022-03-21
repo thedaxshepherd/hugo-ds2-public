@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on The DAX Shepherd</title>
-    <link>thedaxshepherd.com/tags/git/</link>
+    <link>https://thedaxshepherd.com/tags/git/</link>
     <description>Recent content in Git on The DAX Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="thedaxshepherd.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo and GitHub Pages for my blog</title>
-      <link>thedaxshepherd.com/post/website-hugo-blog-git/</link>
+      <link>https://thedaxshepherd.com/post/website-hugo-blog-git/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>thedaxshepherd.com/post/website-hugo-blog-git/</guid>
+      <guid>https://thedaxshepherd.com/post/website-hugo-blog-git/</guid>
       <description>
         
           
