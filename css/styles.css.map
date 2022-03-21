@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "D:/Blog/hugo-ds2",
+	"sourceRoot": "D:/blog/hugo-ds2",
 	"sources": [
 		"C:/Users/JROMAN~1.CER/AppData/Local/Temp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/chipzoller/hugo-clarity@v0.0.0-20220308110352-907d62a27967/assets/sass/main.sass",
 		"C:/Users/JROMAN~1.CER/AppData/Local/Temp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/chipzoller/hugo-clarity@v0.0.0-20220308110352-907d62a27967/assets/sass/_variables.sass",
